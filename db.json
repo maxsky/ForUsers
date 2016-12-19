@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5856c49b06bd8bfc34720886"},"name":"小明","age":21,"gender":"男"}
+{"_id":{"$oid":"5856c49b06bd8bfc34720888"},"name":"小强","age":22,"gender":"男"}
+{"_id":{"$oid":"5856c49b06bd8bfc3472088a"},"name":"小张","age":21,"gender":"女"}
+{"_id":{"$oid":"58582d1be10c0106d394ff49"},"name":"小白","age":24,"gender":"女"}

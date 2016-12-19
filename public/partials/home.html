@@ -1,0 +1,14 @@
+<h1>Home Page</h1>
+<p>
+    <a href="/#!/add-user">Add a User</a>
+</p>
+<ul>
+    <li ng-repeat='user in users'>
+        <a href="/#!/user/{{video._id}}">
+            {{user.name}}
+        </a>
+        <a href="/#!/user/delete/{{user._id}}">
+            <i class="glyphicon glyphicon-remove"></i>
+        </a>
+    </li>
+</ul>
